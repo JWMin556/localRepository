@@ -1,6 +1,7 @@
 public class User {
     private String name;
     private int age;
+    // 안녕하송~
     
     public User(String name, int age) {
         this.name = name;
